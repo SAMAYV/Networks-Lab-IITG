@@ -1,0 +1,88 @@
+Initiate: UDP, STUN, TCP, TLSv1.2, ARP, DNS
+Sending: SSLv2, TCP, UDP, TLSv1.2
+Stoping video send: TCP(Black lines), UDP, STUN, TLSv1.2 
+Termination: TLSv1.2, TCP, MDNS, ICMP, DNS, UDP
+When two devices connect over the Internet, the ICMP generates errors to share with the sending device in the event that any of the data did not get to its intended destination. For example, if a packet of data is too large for a router, the router will drop the packet and send an ICMP message back to the original source for the data.
+
+https://drive.google.com/drive/folders/10KSrXjJIzByXVwyznALsYkm4ovSipv8M?usp=sharing
+
+IPs: 104.215.47.15, 52.114.14.47, 40.74.219.49, 52.114.15.58
+IPs: 104.215.6.69, 52.114.14.1, 40.74.219.49, 52.114.6.180
+IPs: 168.63.246.67, 52.114.6.105, 52.114.14.47, 40.83.97.152 
+
+11 am
+Throughput 8969 B/sec
+RTT 1/53.1 = 0.01883
+UDP 5827
+TCP 152
+Packets loss 0  
+Packet size 169 B
+0.0984
+
+Throughput 495k B/sec
+RTT 1/513.5 = 0.001947 sec
+UDP 1083
+TCP 22255
+Packets loss 0  
+Packet size 964 B
+0.437
+
+Throughput 5235 B/sec
+RTT 1/20.3 = 0.04926 sec
+UDP 480
+TCP 150
+Packets loss 0  
+Packet size 258 B
+0.2652
+
+2pm
+Throughput 4794 B/sec
+RTT 1/84.68 = 0.011809
+UDP 2008
+TCP 161
+Packets loss 0  
+Packet size 185 B
+0.1403
+
+Throughput 511k B/sec
+RTT 1/528.4 = 0.001892 sec
+UDP 914
+TCP 19477
+Packets loss 0  
+Packet size 969 B
+0.4297
+
+Throughput 17k B/sec
+RTT 1/29.9 = 0.03344 sec
+UDP 165
+TCP 435
+Packets loss 0  
+Packet size 594 B
+0.9742
+
+8pm
+Throughput 7216 B/sec
+RTT 1/37.8 = 0.02645
+UDP 2310
+TCP 180
+Packets loss 0  
+Packet size 191 B
+0.1269
+
+Throughput 739k B/sec
+RTT 1/784.9 = 0.001274 sec
+UDP 995
+TCP 32687
+Packets loss 0  
+Packet size 943 B
+0.4999
+
+Throughput 7885 B/sec
+RTT 1/26.104 = 0.0383 sec
+UDP 212
+TCP 254
+Packets loss 0  
+Packet size 406 B
+0.5751
+
+
