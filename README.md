@@ -1,1 +1,1 @@
-# Networks_LAB
+- This repository contains all the assignments covered in the course CS342 by Group 19.
